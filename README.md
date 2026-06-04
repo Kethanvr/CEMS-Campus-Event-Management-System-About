@@ -1,4 +1,4 @@
-![CEMS Banner](./public/cems_banner.png)
+![CEMS Banner](./cems_banner.png)
 
 # CEMS: Campus Event Management System
 ## Technical Project Report & Comprehensive Documentation
