@@ -11,7 +11,7 @@ The system incorporates robust features such as multi-tier approval matrixes, co
 ### 2. High-Level Technical Architecture
 CEMS is engineered as a modern full-stack web application leveraging the **Next.js App Router** for advanced server-side rendering, streaming, and optimized static site generation.
 
-![CEMS Tech Stack Architecture Diagram](./public/cems_tech_stack.png)
+![CEMS Tech Stack Architecture Diagram](./cems_tech_stack.png)
 
 #### 2.1 System Components
 - **Frontend Layer**: Built exclusively with **React 19** using Server and Client components. It features heavily optimized, responsive interfaces styled with **Tailwind CSS**. **Radix UI** primitives provide accessible foundation components, augmented with **Framer Motion** for fluid layout transitions and micro-interactions.
